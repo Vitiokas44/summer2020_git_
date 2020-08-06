@@ -12,6 +12,7 @@ public class zombieAttack {
             boolean isFullTime = true;
             boolean isMarried = false;
             double salary = 110000.55;
+            System.out.println();
 
             System.out.println("Employee full name is:"+firstName+" "+lastName);
             System.out.println(firstName+ " "+lastName+" "+"gender is:"+" "+gender);
